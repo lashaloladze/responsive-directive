@@ -1,0 +1,1 @@
+export type screenSizes = 'sm' | 'md' | 'lg';
